@@ -1,0 +1,2 @@
+export const INSTALL_PRICE = 'INSTALL_PRICE';
+export const EDIT_ACTIVE_PRICE = 'EDIT_ACTIVE_PRICE';
